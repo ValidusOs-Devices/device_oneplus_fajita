@@ -3,5 +3,10 @@
     "repository": "ValidusOs-Devices/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
     "branch": "9.0"
+  },
+  {
+    "repository": "GZOSP/vendor_interfaces",
+    "target_path": "vendor/interfaces",
+    "branch": "9.0"
   }
 ]
