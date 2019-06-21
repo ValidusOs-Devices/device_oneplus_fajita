@@ -36,6 +36,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
 
+# Fingerprint
+PRODUCT_PACKAGES += \
+    lineage.biometrics.fingerprint.inscreen@1.0-service.oneplus_fajita
+
 # Pocket mode
 PRODUCT_PACKAGES += \
     OnePlusPocketMode
