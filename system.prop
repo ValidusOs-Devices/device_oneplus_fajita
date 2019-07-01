@@ -1,0 +1,6 @@
+# system.prop for sdm845
+#
+
+# Fingerprint
+persist.vendor.sys.fp.fod.location.X_Y=444,1966
+persist.vendor.sys.fp.fod.size.width_height=190,190
