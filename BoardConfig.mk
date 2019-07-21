@@ -19,6 +19,8 @@
 
 DEVICE_PATH := device/oneplus/fajita
 
+TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
+
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
