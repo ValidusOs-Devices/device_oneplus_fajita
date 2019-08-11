@@ -410,9 +410,6 @@
     <!-- Override audio panel location to the left side -->
     <bool name="config_audioPanelOnLeftSide">true</bool>
 
-    <!-- Show a custom view for FOD -->
-    <bool name="config_needCustomFODView">true</bool>
-    <bool name="config_usesOnePlusFOD">true</bool>
 
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_enableSmartPixels">true</bool>
@@ -430,5 +427,4 @@
 
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">false</bool>
-
 </resources>
