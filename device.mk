@@ -36,6 +36,10 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
 
+# camera
+PRODUCT_PACKAGES += \
+    Snap
+
 # Pocket mode
 PRODUCT_PACKAGES += \
     OnePlusPocketMode
